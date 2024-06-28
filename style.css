@@ -773,7 +773,7 @@ body.dark .icon a {
 }
 @media screen and (max-width: 600px) {
   footer {
-    width: 130%; 
+    width: 160%; 
     padding: 10px; 
   }
 }
