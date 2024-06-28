@@ -765,6 +765,9 @@ body {
 footer {
   padding: 20px 40px; 
 }
+.top-header h1 {
+  margin-bottom: 30px;
+}
 
 }
 
@@ -790,7 +793,7 @@ footer {
     background-color: #fff;
   }
   footer {
-    width: 151%; 
+    width: 149%; 
     padding: 10px; 
   }
   .top-header h1 {
