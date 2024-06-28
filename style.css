@@ -474,10 +474,10 @@ i {
   z-index: 0.1;
 }
 .book::after {
-  background: url(/book.png);
+  background: url(book.png);
 }
 .net::after {
-  background: url(/netflix.jpeg);
+  background: url(netflix.jpeg);
 }
 .project-box:hover.project-box::after,
 .contact-info:hover.contact-info::after {
@@ -769,5 +769,11 @@ body.dark .icon a {
   }
   .mode {
     margin-left: 50%;
+  }
+}
+@media screen and (max-width: 600px) {
+  footer {
+    width: 130%; 
+    padding: 10px; 
   }
 }
