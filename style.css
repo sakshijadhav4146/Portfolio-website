@@ -575,7 +575,6 @@ textarea {
   outline: none;
   resize: none;
 }
-
 .form-button > .btn {
   display: flex;
   align-items: center;
@@ -587,7 +586,6 @@ textarea {
   border-radius: 30px;
   color: #fff;
 }
-
 .form-button i {
   font-size: 18px;
   rotate: -45deg;
