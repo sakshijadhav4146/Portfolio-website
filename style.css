@@ -765,9 +765,7 @@ body {
 footer {
   padding: 20px 40px; 
 }
-.top-header h1 {
-  margin-bottom: 27px;
-}
+
 }
 
 @media only screen and (max-width: 540px) {
@@ -788,9 +786,15 @@ footer {
   }
 }
 @media screen and (max-width: 600px) {
+  body{
+    background-color: #fff;
+  }
   footer {
-    width: 154%; 
+    width: 151%; 
     padding: 10px; 
+  }
+  .top-header h1 {
+    margin-bottom: 27px;
   }
 }
 
