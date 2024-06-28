@@ -752,6 +752,19 @@ body.dark .icon a {
     width: 100%;
     height: auto;
   }
+  
+}
+body {
+  background-color: #ffffff; 
+}
+
+.about-info {
+  padding: 20px;
+  margin-bottom: 20px; 
+
+footer {
+  padding: 20px 40px; 
+}
 }
 
 @media only screen and (max-width: 540px) {
@@ -777,3 +790,5 @@ body.dark .icon a {
     padding: 10px; 
   }
 }
+
+
