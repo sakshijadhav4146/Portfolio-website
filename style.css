@@ -417,6 +417,9 @@ i {
     opacity: 1;
   }
 }
+.skill-box i{
+  margin-right: 10px;
+}
 .skill-per .tooltip {
   position: absolute;
   right: -14px;
